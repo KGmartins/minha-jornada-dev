@@ -1,29 +1,20 @@
-🚀 Minha Jornada Dev: Da Prevenção ao Código
-Este repositório registra o meu primeiro projeto estruturado de desenvolvimento web, unindo conceitos de HTML5 Semântico e estilização moderna com CSS3. Mais do que um site, ele é o reflexo da minha transição de carreira.
+# 🚀 Minha Jornada Dev: Da Prevenção ao Código
 
-📌 Sobre o Projeto
-O projeto foi construído durante os estudos dos capítulos 8 e 9 do curso de Desenvolvimento Web. Ele apresenta uma galeria visual que narra minha trajetória atual e um dicionário técnico das tags aprendidas.
+Este repositório registra o meu primeiro projeto estruturado de desenvolvimento web. Mais do que um site, ele é o reflexo da minha transição de carreira e da minha dedicação diária.
 
-🛠️ Tecnologias e Conceitos Aplicados:
-HTML5 Semântico: Estruturação completa com <header>, <main>, <section>, <article>, <figure> e <footer>.
+## 📌 Sobre o Projeto
+O projeto foi construído para aplicar conceitos de **HTML5 Semântico** e **CSS3**. Ele apresenta uma galeria visual que narra minha trajetória e um dicionário técnico das tags aprendidas.
 
-CSS3 Moderno: Uso de Flexbox para alinhamento, estilização de estados (:hover), Reset de box-sizing e design focado em Dark Mode.
+### 🛠️ Tecnologias e Conceitos:
+* **HTML5 Semântico**: Uso de tags como `<header>`, `<main>`, `<article>` e `<figure>`.
+* **CSS3 Moderno**: Layout com Flexbox, Reset de Box-sizing e estilização Dark Mode.
+* **Organização Profissional**: Pastas separadas para mídias e código limpo.
 
-Storytelling: Navegação visual que mostra o contraste entre o trabalho atual e o objetivo de carreira.
+## 💻 Workstation & Disciplina
+Este código foi escrito em uma workstation que eu mesmo fabriquei, reaproveitando materiais de um antigo guarda-roupa. Atualmente, concilio os estudos (24/43 aulas concluídas) com meu turno de trabalho no varejo, mantendo a constância como pilar principal.
 
-📂 Estrutura de Arquivos
-Organizei o projeto seguindo as boas práticas de mercado:
-
-/imagens: Repositório centralizado de mídias e ícones.
-
-index.html: Estrutura semântica do portal.
-
-style.css: Estilização externa centralizada.
-
-💻 Workstation & Disciplina
-Este código foi escrito em uma estação de trabalho que eu mesmo fabriquei, utilizando materiais reaproveitados de um antigo guarda-roupa, demonstrando minha proatividade em criar soluções. Atualmente, mantenho o ritmo de 24/43 aulas concluídas, conciliando o aprendizado com o turno de trabalho no varejo.
-
-🎯 Objetivo
-Transformar a atenção aos detalhes e a responsabilidade desenvolvidas no setor de prevenção de perdas em soluções de software eficientes e interfaces de alta performance.
-
+## 📸 Galeria de Evolução
+No site, apresento o contraste entre o meu presente (Prevenção de Perdas no Supermercado Watanabe) e o meu objetivo (Desenvolvedor Sênior em uma Big Tech).
 ![Minha Jornada](imagens/transicao_watanabe.jpg)
+---
+*Desenvolvido com ☕ e foco por Kayo Martins*
