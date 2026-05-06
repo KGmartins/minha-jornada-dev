@@ -1,0 +1,151 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+header{
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+header h1{
+    font-size: 2.5rem;
+    color: #2c3e50;
+    text-transform: uppercase;
+    border-bottom: 5px solid #6c5ce7;
+    display: inline-block;
+}
+section{
+    margin-bottom: 50px;
+}
+
+h2{
+    margin-bottom: 20px;
+    color: #22c55e;
+}
+
+.linha_tempo{
+    background: white;
+    padding: 20px;
+    border-left: 5px solid #6c5ce7;
+    margin-bottom: 15px;
+    border-radius: 0 10px 10px 0;
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.05)
+}
+
+.linha_tempo ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.linha_tempo li{
+    margin-bottom: 25px;
+    padding-left: 10px;  
+    position: relative;
+}
+
+.linha_tempo li h3{
+    margin-top: 20px;
+    color: #6c5ce7;
+    display: inline;
+}
+
+.galeria {
+    display: flex;
+    justify-content: space-around; 
+    flex-wrap: wrap;             
+    gap: 20px;                  
+    margin: 40px 0;
+}
+
+.galeria figure {
+    width: 300px;                
+    text-align: center;
+}
+
+.galeria img {
+    width: 100%;
+    border-radius: 15px;        
+    box-shadow: 0 4px 15px rgba(0,0,0,0.3); 
+    transition: transform 0.3s;  
+}
+
+.galeria img:hover {
+    transform: scale(1.05);     
+}
+
+figure{
+    width: 300px;
+}
+
+figure img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+figcaption{
+    margin-top: 8px;
+    font-size: 0.9rem;
+    color: #94a3b8;
+}
+
+.dicionario {
+    list-style: none; 
+    padding-left: 0;
+}
+
+.dicionario li {
+    margin-bottom: 12px;
+    padding-left: 20px;
+    position: relative;
+}
+
+.dicionario li::before {
+    content: "•";
+    color: #38bdf8; 
+    font-weight: bold;
+    position: absolute;
+    left: 0;
+}
+
+footer {
+    background-color: #1a1a1a !important;
+    color: #ffffff !important;
+    text-align: center;
+    padding: 40px 20px;
+    margin-top: 50px;
+    display: block;
+    width: 100%;
+    clear: both;
+}
+
+footer strong {
+    color: #f1c40f;
+}
+
+footer nav {
+    margin: 15px 0;
+}
+
+footer nav a {
+    color: #38bdf8;
+    text-decoration: none;
+    margin: 0 10px;
+    font-weight: bold;
+}
+
+footer small {
+    display: block;
+    color: #888;
+    margin-top: 10px;
+}
